@@ -66,11 +66,11 @@ public class Sale {
 		this.deals = deals;
 	}
 
-	public Double getamount() {
+	public Double getAmount() {
 		return amount;
 	}
 
-	public void setamount(Double amount) {
+	public void setAmount(Double amount) {
 		this.amount = amount;
 	}
 
