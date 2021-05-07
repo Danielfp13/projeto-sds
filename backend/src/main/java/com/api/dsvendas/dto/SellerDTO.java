@@ -14,10 +14,10 @@ public class SellerDTO implements Serializable {
 	public SellerDTO() {
 	
 	}
-	public SellerDTO(Seller saller) {
+	public SellerDTO(Seller seller) {
 	
-		this.id = saller.getId();
-		this.name = saller.getName();
+		this.id = seller.getId();
+		this.name = seller.getName();
 	}
 	
 	public Long getId() {
