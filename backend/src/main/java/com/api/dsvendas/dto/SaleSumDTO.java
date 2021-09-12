@@ -36,6 +36,5 @@ public class SaleSumDTO implements Serializable {
 		this.sum = sum;
 	}
 	
-	
-	
 }
+
